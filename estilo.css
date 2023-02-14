@@ -1,0 +1,33 @@
+body,html{
+    padding: 0px;
+    margin: 0px;
+}
+
+
+.conteudo{
+    display:flex;
+    flex-direction: row;
+    background-color: silver;
+    padding: 40px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-items: center;
+    align-items: center;
+    align-content: center; 
+}
+
+
+.card{
+    width: 250px;
+    height: 250px;
+    background-color: yellow;
+    margin: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    justify-items: center;
+    align-items: center;
+    align-content: center; 
+}
+
